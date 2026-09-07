@@ -12,6 +12,8 @@
 
 </details>
 
+<script src="https://gist.github.com/copycat1337/0c912d6fc5d74a21f1514bcea13ed6ed.js"></script>
+
 ## 📋 Description
 
 A powerful Tampermonkey script for Torn that creates and manages an attack list with FF Scouter integration.
