@@ -1,4 +1,5 @@
-# Torn Attack List - Tampermonkey Script c0pyc4t [4039125]
+# Torn Attack List - Tampermonkey Script 
+# By c0pyc4t [4039125]
 
 <details>
 <summary>📸 View Screenshots</summary>
