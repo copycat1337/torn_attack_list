@@ -6,7 +6,9 @@
 
 ### Dashboard Widget
 
-![Dashboard Widget](pictures/dashboard.png)
+![Dashboard Widget](settings.png)
+![Dashboard Widget](hitlist_view.png)
+
 
 </details>
 
