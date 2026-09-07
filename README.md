@@ -12,7 +12,8 @@
 
 </details>
 
-[🟢 Install Script Via Gist]([https://gist.github.com/copycat1337/0c912d6fc5d74a21f1514bcea13ed6ed](https://gist.github.com/copycat1337/0c912d6fc5d74a21f1514bcea13ed6ed/raw/f39178b331d49299143fad0cb6c8dd0286be9ff3/torn_hitlist.user.js))
+[🟢 Install Script Via Gist](https://gist.githubusercontent.com/copycat1337/0c912d6fc5d74a21f1514bcea13ed6ed/raw/f39178b331d49299143fad0cb6c8dd0286be9ff3/torn_hitlist.user.js)
+
 
 
 ## 📋 Description
