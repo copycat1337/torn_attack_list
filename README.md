@@ -11,6 +11,7 @@
 
 
 </details>
+
 [🟢 Install Script Via Gist](https://gist.github.com/copycat1337/0c912d6fc5d74a21f1514bcea13ed6ed)
 
 
